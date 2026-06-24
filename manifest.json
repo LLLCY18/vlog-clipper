@@ -1,0 +1,16 @@
+{
+  "name": "Vlog快剪 — 一键模板剪辑",
+  "short_name": "Vlog快剪",
+  "description": "选风格、导视频、一键生成vlog，支持抖音/小红书文案",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0f1a",
+  "theme_color": "#1a1a2e",
+  "icons": [{
+    "src": "icon.svg",
+    "sizes": "512x512",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
